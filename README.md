@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Systems Engineer | Resourceful Developer | Computer Security
 
-Soy un estudiante de ingenieria de sistemas apasionado por tecnologia e innovacion, enfocado en el desarrollo de software. Mi meta es crear soluciones rapidas y eficaz, que ofrezcan valor y un impacto positivo.
+Soy un estudiante de ingenieria de sistemas apasionado por tecnologia e innovacion, enfocado en el desarrollo de software. Mi meta es crear soluciones rapidas y eficaz, que ofrezcan valor y un impacto positivo. Cada dia con ganas aprender mas sobre el mundo del desarrollo y su evolucion que poco a poco logra en el mundo.
 
 ---
 
