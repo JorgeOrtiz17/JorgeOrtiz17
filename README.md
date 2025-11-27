@@ -1,6 +1,6 @@
 # Hi Sebastian Ortiz 👋
 
-### 👨‍💻 [Tu Rol Principal] | [Tu Otra Habilidad] | [Tu Enfoque]
+### 👨‍💻 Systems Engineer | Resourceful Developer | Computer Security
 
 Soy un estudiante de ingenieria de sistemas apasionado por tecnologia e innovacion, enfocado en el desarrollo de software. Mi meta es crear soluciones rapidas y eficaz, que ofrezcan valor y un impacto positivo.
 
